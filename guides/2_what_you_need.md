@@ -3,30 +3,36 @@ title: 2 - What You'll Need
 layout: home
 nav_order: 2
 parent: Guide
+permalink: /guide/2-supplies
+redirect_from:
+    - /guides/2_what_you_need
 ---
 
 # What You'll Need
 
+_Reviewed and Updated April 15, 2024_
+
 ## Ingredients
 
-* Your hormone [ester of choice], [tested]. ([How to order])
+* Your hormone [ester of choice], that you've [tested]. ([How to order])
 * MCT oil, or other carrier oil ([read more])
 * Benzyl alcohol, a preservative
 * Benzyl benzoate, a solvent
 
 ## Vials
 
-* 3mL glass vials ([choosing size])
-* Vial caps (make sure right size for vial)
-* Butyl rubber vial stoppers (make sure right size for vial)
+* 3mL glass vials ([choosing vial size])
+* 100mL glass vials (empty, pre-sterilized & sealed or make your own)
+* Vial caps (make sure right size for vials)
+* Butyl rubber vial stoppers (make sure right size for vials)
 
 OR
 
-* Pre-sterilized and sealed glass vials. Only use these if you're making a single vial at a time as it must be punctured to fill, thus accelerating expiration. The use of pre-sterilized and sealed vials substantially lowers risk of contamination, assuming the vials are finished within a couple of months of filling. This guide will not touch on this subject further as the focus here is bulk. When you puncture to fill, use a second needle puncture to allow air to escape as you fill the vial.
+* Pre-sterilized and sealed glass vials (3/5/10mL). Only use these if you're making 1-2 vials at a time as it must be punctured to fill, thus accelerating expiration. The use of pre-sterilized and sealed vials substantially lowers risk of contamination, assuming the vials are finished within a couple of months of filling. This guide will not touch on this subject further as the focus here is bulk. When you puncture to fill, use a second needle puncture to allow air to escape as you fill the vial. (see step 6 for more details).
 
 ## Disposables
 
-* Large sterile luer lock syringes to use with filtration (10-50mL, larger is more difficult to push because math)
+* Large sterile luer lock syringes to use with filtration (20-50mL, larger is more difficult to push because math, we like 20mL)
 * Sterile 0.22μm hydrophilic PTFE syringe filters ([how to choose])
 * Isopropyl alcohol 70% (IPA) (higher percentage is NOT better, use 70%)
 * Disinfecting hand soap
@@ -79,18 +85,18 @@ OR
 
 [ester of choice]: /topics/esters_compared
 [tested]: /topics/hormone_testing
-[How to order]: /other/order_hrt
+[How to order]: /where-to-order
 [read more]: /topics/choosing_oil
-[choosing size]: /topics/vial_size_concentration
+[choosing vial size]: /topics/vial_size_concentration
 [how to choose]: /topics/choosing_filter
 [fingertip testing]: /topics/fingertip_testing
 [how to make at home]: /topics/make_agar
 [Biological indicators]: /topics/biological_indicators
 [more]: /topics/biological_indicators#indicator-strips
-[Contact us]: /pages/contact
+[Contact us]: /contact
 [we use an Instant Pot]: /topics/instant_pot
 [Laminar flow hood]: /topics/diy_laminar
 [still air box]: /topics/still_air
 
-[&larr; 1. Getting started]: /guides/1_getting_started
-[3. Prepare work area &rarr;]: /guides/3_work_area
+[&larr; 1. Getting started]: /guide/1-start
+[3. Prepare work area &rarr;]: /guide/3-work-area

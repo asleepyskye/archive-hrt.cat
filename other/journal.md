@@ -3,11 +3,90 @@ title: Journal
 layout: home
 nav_order: 5
 parent: Other
+permalink: /journal
+redirect_from:
+    - /other/journal
 ---
 
 # DIY Journal
 
 Welcome to our journal where we write about ~~wild fantasies we have about catgirls~~ what we're actively learning on any given day. Thoughts may be incomplete and scattered, these are merely our own notes. Look at [Topics](/topics) and [Guide](/guide) for more structured info.
+
+## HRT Cat is Back!
+_April 16, 2024_
+
+### Where we went
+
+HRT Cat was previously hosted on Github Pages. We liked this cause it was free and we could just `git push` updates out. We did, however, suspect that eventually that decision would come back to bite us in the ass seeing as Github terms of service probably don't look _super_ kindly on this type of website. It probably doesn't help that we access all of our services through Tor and are more likely to have our accounts flagged as spam. So yeah, Github took us down and we didn't even know until posts on reddit started popping up. Once we were able to wrap up a few other projects we've been able to put HRT Cat back in the center of the project orbit. 
+
+### Where we are now
+
+We are now hosting on a private VPS in a docker container. We are hopeful that our new provider doesn't care about what we get up to. Also hopeful that we don't get (D)DOS'd or whatever now that we don't have cloudflare in front of the site. This new setup is also kinda fucking expensive. Again, we can't host on GoDaddy or similar, since we'll just get taken down again. Huge shoutout to Felicitas for the donation that will make this hosting possible for the first little while. Please, please [donate](/donate) if you're able to. We have thrown so much money and time at this project and we could really use the help keeping it online. Even just a few bucks (in XMR) means a lot to us. 
+
+### Where we're going
+
+Shit is getting super real out there, you know? More and more people are needing access to DIY hormones and it seems like every day one of us is sharing some DIY atrocity posted on the subreddit with each other. There's way too much bad info in our community. Too many people shooting junk vials (please stop burning oil then injecting it! omg). 
+
+We want to focus on a few different things moving forward:
+
+* A micro-scale guide. So a single person can make a couple vials every couple months. Tyger had one of these before their site went offline, we might try to revitalize that. 
+* Clean up our current guide, intended for medium scale.
+* We need [donations](/donate) to help us buy equipment so we can write a large-scale guide. This would be for folks who want to run large operations that sell online and ship all over. We don't fuck with that, but we want to support people who do. We estimate needing around $1,500 usd to get a flow hood and bulk filtration equipment. It would be even cooler if we could grab a proper autoclave, probably another $2,000. 
+* A guide for topicals. This is straight forward, lots of good guides already out there. 
+* A stronger guide for building a kitchen lab, and a stronger guide for how to build a business. 
+
+We want to support as many people as we can. But most importantly we want to support people who are preparing to support their own local communities. If you are capable of following the instructions on this website, there are local ~~moms in your area~~ trans folks who need you. Please consider taking steps to locate and help them. 
+
+Later Bitches,  
+HRT Cat....
+
+P.S. [contact](/contact) us if you have suggetions or ideas or want to say nice things. Mean things get deleted :) 
+
+
+## Heating Finished Vials?
+
+While syringe filters ARE terminal sterilization, it's possible for contaminates to get into the vial in the step between filling the vial and putting the rubber stopper on. For this reason we'd like to research what type of heat we can subject our vials to once they're sealed. There are a couple questions:
+
+- How much heat can the butyl rubber stoppers handle?
+- How much heat can the hormones handle?
+
+
+If we swtich to using all metal caps we won't have to worry about melting the plastic on the caps during a final dry heat round. 
+
+[This thread discourages heat after capping](https://www.anabolicsteroidforums.com/threads/sterilizing-after-filling-and-capping.67913/)
+
+> You dont sterilize them after filling you sterilize them before. That makes no sense never bake your gear you ruin the hormone ... For one you will degrade the stopper. Thats one. Two you will over heat the hormone and three its just not needed ... you dont bake it. Its not a caserole. 
+
+> I don't get the whole baking after capping thing. Makes no sense and just opens the door to a ton of problems. Autoclaving in a container and working in the cleanest stillest air you can manage will do you more good. Realisitically, once the oil is filtered your procedure and environment prep should keep you sterile, it's really doubtful that if a vial gets contaminated at that point that 30 minutes in an oven is really going to do any good anyway. The BA should be working to keep any replication of bacteria at a standstill anyway. I mean as soon as you open the vial and pressurize it with air it is "contaminated" anyway.
+
+> The reality is that the hormone, BA, BB, and stoppers all have breakdown temps and it seems like the knowledgeable UGL folks regard that as a legit showstopper. I haven't seen any actual specs though.
+
+What's UGL? Probably homebrewers... 
+
+Lena even pops her head into this thread to drop her 2 cents, gives bad advice, becomes target of severe transmisogyny. Fun!
+
+---
+
+We can test if vials lose concentration by sending two identical ones to a lab for analysis, one with heat, one without. Est cost $300.
+
+Butyl rubber?
+
+[Study](https://sci-hub.st/https://doi.org/10.1023/A:1018597518051)
+
+[150C](https://etolrubber.com/butyl-rubber-stopper-autoclave/)
+
+[200C](https://www.vialbottle.com/news/safety-of-butyl-rubber-stopper-for-medical-use-58954341.html)
+
+[120C (same product?)](https://www.thomassci.com/Laboratory-Supplies/Gas-Chromatography-Septa/_/Butyl-Gray-Headspace-Vial-Septa1)
+
+
+---
+
+Wait. once again, no we cannot cook the finished vials as we DO NOT WANT TO COOK THE OIL.
+
+DO NOT DO THIS.
+
+We started second guessing our methodology but no, what the guide currently states is the best information available. 
 
 ## Silicone Stoppers are Cancelled
 
@@ -101,13 +180,15 @@ we're going to rest at this point here for now:
 
 This makes silicone stoppers sound like the best option. Because this is a less common material we feel the need to check compatability with MCT, BA, and BB.
 
+!! UPDATE: silicone stoppers are incompatible with BA, DO NOT USE
+
 ---
 
 [Depyrogenation 200C for 60 minutes](https://www.researchgate.net/profile/Tim-Sandle/publication/282704534_A_Practical_Approach_to_Depyrogenation_Studies_Using_Bacterial_Endotoxin/links/56193ca508ae6d173086ed5c/A-Practical-Approach-to-Depyrogenation-Studies-Using-Bacterial-Endotoxin.pdf) - may be more compatible with silicone
 
 [PTFE/Silicone septa max temp 200C](https://fscimage.fishersci.com/cmsassets/downloads/segment/Scientific/pdf/septum_selection_guide.pdf)
 
-There you have it. Use silicone stoppers and dry heat depyro at 200C for 60min.
+There you have it. ~~Use silicone stoppers and dry heat depyro at 200C for 60min.~~
 
 ## hmm
 

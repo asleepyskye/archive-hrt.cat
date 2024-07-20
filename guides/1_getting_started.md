@@ -3,35 +3,55 @@ title: 1 - Getting Started
 layout: home
 nav_order: 1
 parent: Guide
+permalink: /guide/1-start
+redirect_from:
+    - /guides/1_getting_started
 ---
 
 # Getting Started Brewing Injectable HRT
 
-Talking about the safety of homebrewed HRT is difficult. Homebrewed vials have largely proven themselves to be safe through mountains of anecdotal evidence, yet when the [average homebrew guide is analyzed critically] it becomes clear that almost no one completes a single sterilization step effectively. We do not know how many people receive infections from these vials and whether or not immunocompromised people are disproportionately affected.  
+_Updated April 14, 2024_
 
-This guide aims to empower those who brew for themselves as well as those who brew for mutual aid and for profit to create vials that we can more confidently say have been sterilized. And while our general recommendation would be to stick with brewing topicals, this is a harm reduction based guide that recognizes that vials are preferable to many people.
+## For Medium Scale Production
 
 {: .info }
-Certain steps and supplies will be annotated by a <sup>+</sup> symbol. This symbol indicates that this step is going above and beyond what people who are brewing for just themselves likely need to engage in. If you are brewing to distribute, either for mutual aid or for sale, we encourage you to follow these extra steps to ensure the safety of those who are receiving your vials. If you're brewing for yourself and you're immunocompromised, you may consider these steps as well. 
+This guide is intended for medium scale production. It is not ideal for batches in excess of 50 3mL vials, however you may be able to adapt it. 
+
+Talking about the safety of homebrewed HRT is difficult. Homebrewed vials have largely proven themselves to be safe through mountains of anecdotal evidence, yet when the [average homebrew guide is analyzed critically] it becomes clear that almost no one completes a single sterilization step effectively. We do not know how many people receive infections from these vials and [whether or not immunocompromised people are disproportionately affected](/assets/images/media/protect_disabled.png).  
+
+This guide aims to empower those who brew for themselves, for mutual aid, and those who brew for profit to create vials that we can more confidently say have been sterilized. And while our general recommendation would be to stick with brewing topicals, this is a harm reduction based guide that recognizes that vials are preferable to many people.
+
+{: .info }
+Certain steps and supplies will be annotated by a <sup>+</sup> symbol. This symbol indicates that this step is going above and beyond what people who are brewing for just themselves likely need to engage in. If you are brewing to distribute, either for mutual aid or for sale, we encourage you to follow these extra steps to ensure the safety of those who are receiving your vials. If you're brewing for yourself and you're immunocompromised, you may consider these steps as well.
 
 ## What this guide contains
 
 From a high level this is what we'll be doing:
 
 * Gathering supplies
-* Building a clean room
+* Building a clean room/work area
 * Sanitizing, sterilizing, and depyrogenating everything we can
 * Working in a still air box or laminar flow hood<sup>+</sup>
-* Mixing, using a sterile syringe filter to achieve terminal sterilization
+* Mixing, then using a sterile syringe filter to achieve terminal sterilization
 * Taking a sterility sample<sup>+</sup>, and dispensing your preparation
-* Seal your vials, conduct a bubble point test, and document everything you did.
-* Place your vials in quarantine until sterility results are back<sup>+</sup>.
+* Sealing your vials, conducting a bubble point test, and documenting everything you did.
+* Placing your vials in "quarantine" until sterility results are back<sup>+</sup>.
 
 ## Read the sidebar
 
-There are a plethora of articles in the sidebar. They are sometimes, but not always, referenced within the guide. We recommend you review the information in there, specifically in the [Topics] section. 
+There are a plethora of articles in the sidebar. They are sometimes, but not always, referenced within the guide. We recommend you review the information in there, specifically in the [Topics] section.
 
-We think homebrewing doesn't have to be difficult or complex, but we do think that you need to be well-read on the topic to do it effectively. 
+We think homebrewing doesn't have to be difficult or complex, but we do think that you need to be well-read on the topic to do it effectively.
+
+## Read Tyger's guide on homebrewing
+
+Tyger is a mutual aid homebrewer in the UK. While we have minor critiques on some of their recommendations, largely we think that their homebrew guide is exceptionally high quality.
+
+If you are making vials at anything greater than small scale you would be best served to read their guide **in conjunction** with HRT Cat. We ask that you take a particularly strong look at their suggestions for aseptic technique, which go into far greater detail than we do on this site.
+
+[Guide by Tyger (recovered through the way back machine)](https://web.archive.org/web/20230812121350/https://manufacturedbytyger.com/Tyger_Medium_Guide.pdf)
+
+This recommendation will remain in place until we are able to write a proper article on aseptic technique.
 
 ## Create a procedure summary
 
@@ -43,7 +63,7 @@ Before you start with your brew we recommend you write out a step-by-step proced
 
 [2. What You'll Need &rarr;]{: .btn .btn-purple }
 
-[average homebrew guide is analyzed critically]: /other/properly_sterilized
-[Here's a sample we made]: /other/summary
-[2. What You'll Need &rarr;]: /guides/2_what_you_need
+[average homebrew guide is analyzed critically]: /properly-sterilized
+[Here's a sample we made]: /summary
+[2. What You'll Need &rarr;]: /guide/2-supplies
 [Topics]: /topics

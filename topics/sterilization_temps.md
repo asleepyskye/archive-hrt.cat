@@ -41,7 +41,7 @@ This is the use of an autoclave. Commercially available pressure cookers such as
 
 There is a relationship between temperature, pressure, and time. The math is a bit beyond us so we're not going to attempt to explain it here. But take the Instant Pot for example. It gets up to 115°-118°C at 10.2-11.6psi, a bit short of the requirements listed above. Therefore, it needs to run a sterilization cycle for at least 150 minutes. See the [instant pot](/topics/instant_pot) page for data about sterilization with that.
 
-See [this page](/other/lena) for info about sterilizing sealed containers.
+See [this page](/lena) for info about sterilizing sealed containers.
 
 ---
 

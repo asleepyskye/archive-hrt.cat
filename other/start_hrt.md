@@ -3,6 +3,9 @@ title: Starting HRT
 layout: home
 nav_order: 9999
 parent: Other
+permalink: /start-hrt
+redirect_from:
+    - /other/start_hrt
 ---
 
 # Starting HRT
@@ -11,7 +14,7 @@ This information isn't exactly our wheelhouse nor our passion. The good news is 
 
 Medical transition is typically a binary process. We will be using the words trans femme and MtF to indicate someone interested in feminizing therapy and trans masc and FtM to indicate someone interested masculinization. Apologies to the folks who don't fit into this language model. 
 
-Tbh the bulk of what we're going to list here we will be pulling from the [r/TransDIY wiki](https://www.reddit.com/r/TransDIY/wiki/index/). You can also find possibly everything you need on [The DIY HRT Directory](https://diyhrt.wiki/index).
+Tbh the bulk of what we're going to list here we will be pulling from the [r/TransDIY wiki](https://www.reddit.com/r/TransDIY/wiki/index/). You can also probably find everything you need on [The DIY HRT Directory](https://diyhrt.wiki/index) or on [The DIY HRT Market Trans Femme Guide](https://diyhrt.market/transfem-hrt-guide).
 
 ## Medical guidelines for transition
 
@@ -34,7 +37,7 @@ Any further information we would give you we would likely pull directly from the
 
 ## Decide what you want to take
 
-Trans femmes typically take an anti-androgen and an estradiol, however many people believe that anti-androgens are unnecessary if taking an adequate amount of estradiol (topical or intramuscular only). Trans femmes will sometimes add progesterone after a year on estradiol, as there is a widespread belief that it helps with breast development and fat redistribution, claims which are largely unsubstantiated. If we could redo the early days of our HRT over again, we would only add anti-androgens if mono-therapy wasn't working.
+Trans femmes typically take an anti-androgen and an estradiol, however many people believe that anti-androgens are unnecessary if taking an adequate amount of estradiol (topical or injection only). Trans femmes will sometimes add progesterone after a year on estradiol, as there is a widespread belief that it helps with breast development and fat redistribution, claims which are scientifically unsubstantiated but very common anecdotally. If we could redo the early days of our HRT over again, we would only add anti-androgens if mono-therapy wasn't working.
 
 Trans mascs typically take just a testosterone, which is strong enough to block estrogens in their bodies. Some people who find themselves predisposed to genetic hair loss will take finasteride to counteract the hair loss process that taking testosterone can cause. 
 
@@ -44,7 +47,7 @@ The medical guidelines linked above will talk about options and dosages. We also
 
 We are vastly critical of both the medical system that gatekeeps HRT as well as of the DIY producers of HRT. If you are able to use the mainstream medical system to obtain HRT, that will always be the best and safest situation. When HRT is obtained at a pharmacy there is a very high level of purity and sterility assurance. Unfortunately this is becoming impossible for more and more people. 
 
-How to get black and grey market HRT? Injectables can be obtained from a wide variety of online sources, however we urge caution when obtaining vials that are not coming from licensed compounding pharmacies. You may be able to get estradiol that was compounded in Thailand or India from a legitimate pharmacy. In general this may be safer than standard "home lab" injectables due to the prevalence of false information about how to sterilize vials that circulates around the trans community. Vials are cheap, effective, and you only have to use them once a week. The downsides of vials are the need to consider sterility and having to give oneself injections. 
+**How to get black and grey market HRT?** Injectables can be obtained from a wide variety of online sources, however we urge caution when obtaining vials that are not coming from licensed compounding pharmacies. You may be able to get estradiol that was compounded in Thailand or India from a legitimate pharmacy. In general this may be safer than standard "home lab" injectables due to the prevalence of false information about how to sterilize vials that circulates around the trans community. Vials are cheap, effective, and you only have to use them once a week. The downsides of vials are the need to consider sterility and having to give oneself injections. 
 
 Avoiding injectables, the other DIY option is generally topicals, the simplest form of which is just hand sanitizer, orange essential oil (penetration enhancer), and your hormone of choice. This is often safer because the product does not need to be sterile. The downside of this is that 1) you need to use it every day, as opposed to once a week, and 2) it's more expensive in the long run. 
 
@@ -65,4 +68,4 @@ If you want to make your own topicals, it's super easy! We'll have a guide on th
 A cool trick we like is to find a commercially available medication that we want to replicate and to find its package insert online. Let's take [AndroGel](https://www.drugs.com/pro/androgel.html#s-34068-7) for example. The package insert tells us how much T is in a typical pump/dose. We can extrapolate that information to help us adapt DIY recipes. It requires a little bit of math, but we think it's more reliable of a resource than random reddit comments. 
 
 
-[Where to Order HRT]: /other/order_hrt
+[Where to Order HRT]: /where-to-order

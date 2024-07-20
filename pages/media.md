@@ -2,6 +2,9 @@
 title: Shareable Media
 layout: home
 nav_order: 80
+permalink: /media
+redirect_from:
+    - /pages/media
 ---
 
 # Shareable Media

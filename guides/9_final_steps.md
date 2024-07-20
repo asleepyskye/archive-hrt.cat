@@ -1,8 +1,11 @@
 ---
-title: 8 - Final Steps
+title: 9 - Final Steps
 layout: home
-nav_order: 8
+nav_order: 9
 parent: Guide
+permalink: /guide/9-final-steps
+redirect_from:
+    - /guides/8_final_steps
 ---
 
 # Final Steps
@@ -11,7 +14,9 @@ parent: Guide
 
 There is a vast misconception that putting closed and finished vials into your autoclave will sterilize them. Because the vial is sealed and cannot be penetrated by steam, there is no veracity to this claim. The heat generated from your autoclave alone is not sufficient to sterilize the inside of the vial. See [this page] for more info.
 
-Therefore, you do not need to take any final sterilization steps if you followed the previous steps precisely. If you're superstitious or whatever and wanna do a final step, you can throw these in the autoclave for 30-60 minutes, but as far as we can tell it won't do much.
+Therefore, you do not need to take any final sterilization steps if you followed the previous steps precisely. 
+
+Of course, some bacteria is killed at 121°C. An autoclave cycle won't do nothing, but it is not sufficient to create conditions of sterility in your vial. You may put your vials into the autoclave for 30-60 minutes, as a final just-in-case, but in theory it's not needed.
 
 ## Making a Record
 
@@ -55,12 +60,16 @@ If you preformed fingertip testing and final sterility testing #TODO
 
 ## All done :)
 
+If you have plans to sell your vials, or if you're already doing so, we recommend you read through the tips on the next page to help your security culture. 
+
 ---
 
 ## Navigation
 
-[&larr; 7. Bubble Point Testing]{: .btn .btn-purple }
+[&larr; 8. Dispense Solution]{: .btn .btn-purple }
+[10. Running a Business &rarr;]{: .btn .btn-purple }
 
-[this page]: /other/lena
+[this page]: /lena
 [fingertip testing here]: /topics/fingertip_testing
-[&larr; 7. Bubble Point Testing]: /guides/7_bubble_point
+[&larr; 8. Dispense Solution]: /guide/8-dispense
+[10. Running a Business &rarr;]: /guide/10-selling

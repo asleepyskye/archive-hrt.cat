@@ -6,16 +6,13 @@ parent: Topics
 
 # Choosing a Carrier Oil
 
+_Updated April 14, 2024_
+
 Most legal compounding pharmacies use castor, sesame, or sunflower oil.
 
-Most DIY brewers use MCT oil (AKA Viscoleo). MCT is more viscous and so absorption rate is thought to be quicker. However, it's viscousness makes it easier to inject.
+Most DIY brewers use MCT oil (AKA Viscoleo). MCT is more viscous and so absorption rate is thought to be quicker. However, it's viscousness makes it easier to inject and easier to filter.
 
-We use MCT oil and feel that the trade-off is worth it. It may be absorbed faster by the body, but we like how easy it is to inject. Also, when combined with the long half life of EEn or TC it doesn't seem to cause issues for us. 
-
-[Lena](https://groups.io/g/MTFHRT/wiki/29602) says:
-> "MCT oil... made from a mix of C8 (caprylic) and C10 (capric) fatty acids (not C8 only)"
-
-This is like the MCT oil listed [here](https://www.medical-and-lab-supplies.com/catalog/product/view/id/24082/s/mct-60-40-caprylic-c8-capric-c10-oil/category/2316/), which is also listed as pharmaceutical grade. We haven't researched the C8/C10 thing, but we will say that you def should get pharma grade if you can. 
+MCT oil is a mix of C8 and C10 fatty acids. The bottle of MCT oil you purchase should tell you the ratio of these two, if it doesn't then you should consider a different bottle. You will need to know the ratio of C8:C10 when you try to calculate the density of the oil.
 
 ## Some more info from [an article on Transfeminine Science](https://transfemscience.org/articles/injectable-e2-meta-analysis/#data-quality-limitations-and-variability-between-studies) below:
 

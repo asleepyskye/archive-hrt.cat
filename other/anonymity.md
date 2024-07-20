@@ -3,11 +3,17 @@ title: Maintaining Anonymity
 layout: home
 nav_order: 9999
 parent: Other
+permalink: /anonymity
+redirect_from:
+    - /other/anonymity
 ---
 
 # Maintaining Anonymity Online and In Person
 
 _Updated June 23, 2023_
+
+{: .notice }
+This article was written by request. It could be better. Please do your own homework and look far and wide for good info. 
 
 If anonymity was easy, more people would do it. The more anonymous you want to be, the more inconvenient everything you do becomes. As transgender people are further persecuted, and as the genocide against us picks up pace all around the world, the more dangerous it will be to operate in activist circles. Make no mistake, participating in DIY HRT, whether you brew, distribute, or just consume, is an act of political dissent and depending on your locale it may be punished as such. Just because something isn't illegal today, doesn't mean they won't hold it against you next week when it is. 
 
@@ -105,7 +111,7 @@ We get our domain from Njalla, however because this project doesn't make money w
 
 ## More
 
-More to come as we think of it. Please feel free to [contribute](/pages/contribute).
+More to come as we think of it. Please feel free to [contribute](/contribute).
 
 
 [The Hitchhiker's Guide to Online Anonymity]: https://anonymousplanet.org/index.html

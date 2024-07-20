@@ -1,10 +1,15 @@
 ---
-title: Laminar Flow Hood
+title: DIY Laminar Flow Hood
 layout: home
 parent: Topics
 ---
 
 # DIY Laminar Flow Hood
+
+_Updated Nov 22, 2023_
+
+{: .warning } 
+We did a test with a DIY flow hood and some agar plates and have come to the conclusion that a still air box is likely safer to use. Unless you really know what you're doing, don't make your own flow hood, just buy one. 
 
 These things are pretty expensive to buy out right, but they can be built for substantially less money at home. As usual this comes with a sacrifice in quality. If you decide to forego the flow hood, please do use a [still air box](/topics/still_air).
 

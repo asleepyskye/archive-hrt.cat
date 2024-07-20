@@ -3,11 +3,14 @@ title: Guide Summary
 layout: home
 nav_order: 5
 parent: Other
+permalink: /summary
+redirect_from:
+    - /other/summary
 ---
 
 # Guide Summary
 
-This is an example of the exact procedure we preform when brewing in order to help us have a quick reference sheet. It contains no explanations and just has day-of procedures. 
+This is an example of the procedure we might preform when brewing in order to help us have a quick reference sheet. It contains no explanations and just has day-of procedures. 
 
 * Clear work area
 * Sweep and mop
@@ -25,7 +28,6 @@ This is an example of the exact procedure we preform when brewing in order to he
 * Wipe down everything else with IPA
 * Setup laminar flow hood, leave on
 * Remove items from oven and autoclave, stage in clean room
-* Preform fingertip testing
 * Inside flow hood, mix in beaker:
   * ____mL MCT oil
   * ____mL Benzyl Alcohol
@@ -45,4 +47,3 @@ This is an example of the exact procedure we preform when brewing in order to he
 * Place 2nd pass filter on agar for testing<sup>+</sup>.
 * Make a record
 * Label vials
-* Incubate fingertip tests

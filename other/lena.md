@@ -3,13 +3,18 @@ title: A Critique of Lena's Method
 layout: home
 nav_order: 9999
 parent: Other
+permalink: /lena
+redirect_from:
+    - /other/lena
 ---
 
 # A Critique of Lena's Method
 
 It is not our intention to shit all over another trans woman, especially one who serves the trans community so broadly. Lena has surely saved many lives through her work of distributing hormones, and then many more so with all the people she has inspired in the DIY community. However, we have to understand that the information she is providing the community with is outdated and no longer should be considered safe. Just look at common methodology for the steroid homebrewing community to see that these methods are out of date.
 
-While Lena has a strong point that the pharmaceutical industry and its standards are driven by profit, we need to also consider that death is a _very real_ possibility as a result of injecting a contaminated vial. Just because we're not aware of this having had happened it does not mean it's not possible. We should take measures to protect everyone using our vials to the best of our ability.
+While Lena has a strong point that the pharmaceutical industry and its standards are driven by profit, we need to also consider that death is a _very real_ possibility as a result of injecting a contaminated vial. Just because we're not aware of this having had happened it does not mean it's not possible. We should take measures to protect everyone using our vials to the best of our ability, ESPECIALLY those with compromised immune systems. 
+
+The reason we are focusing on Lena's methodology is because it has become overwhelmingly popular. Again, we are not interested in attacking a trans woman. We do, however, want to effectively demonstrate that the DIY community needs to adopt new methods. 
 
 Lena uses a single method of sterilization. Because it is the final step in her process, aka terminal sterilization, this could *theoretically* be #goodenough (though far below USP standards). Unfortunately there is a fatal flaw in the logic of her terminal sterilization. we're pasting it below.
 

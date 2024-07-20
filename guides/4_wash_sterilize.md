@@ -3,9 +3,14 @@ title: 4 - Wash and Sterilize Tools and Vials
 layout: home
 nav_order: 4
 parent: Guide
+permalink: /guide/4-sterilize
+redirect_from:
+    - /guides/4_wash_sterilize
 ---
 
 # Wash and Sterilize Tools and Vials
+
+_Reviewed April 15, 2024_
 
 Now that you have a clean room that is more or less clean, you can start bringing your tools inside of it. [Wipe down everything with isopropyl alcohol 70%] before bringing it inside the room. This includes wiping down the outside of plastic bags, etc. You should be wearing gloves that you are frequently sanitizing with the isopropyl alcohol. The goal here is that everything in this room is clean and sanitized, so if your hands are dirty or your shoes are dirty etcetera then you are working against yourself and the final sterility of your vials.
 
@@ -17,9 +22,9 @@ All glassware and vials must be [depyrogenated](/topics/sanitize_sterilize_depyr
 
 Preheat your oven to 250°C/485°F for depyrogenation. You should have an oven thermometer inside your oven to verify that you're at the right temperature. Hotter is okay.
 
-Before you can depyrogenate your vials you need to wash them out to ensure that they are free from debris. We do this by dunking everything into a large pot of warm soapy water, shaking each vial underwater back and forth and then rinsing well with cold, distilled water. 
+Before you can depyrogenate your vials you need to wash them out to ensure that they are free from debris. We do this by dunking everything into a large pot of warm soapy water, shaking each vial underwater back and forth and then rinsing well with cold, distilled water. You can also dunk the vials in IPA. 
 
-No need to let the vials air/drip dry. If you used distilled water to rinse then it will leave to residue when you put it in the oven. Wrap your vials and glassware in aluminum foil in a way that will let steam escape but not let dust etc fall in, e.g. loosely fitted hats. Once your oven is at temperature put the items inside. You need to let the items get to the correct 250°C temp[^2], and then _once_ they are at temp you should bake for at least 30 minutes[^3]. It is difficult to determine when the items are at 250°, if you have a laser thermometer you could use that. Otherwise, we recommend you be play it very safe and give it an hour to get up to temp. This means you would have the items in the oven for 90 minutes after pre-heating.
+No need to let the vials air/drip dry. If you used distilled water to rinse then it won't leave residue when you put it in the oven. Wrap your vials and glassware in aluminum foil in a way that will let steam escape but not let dust etc fall in, e.g. loosely fitted hats. Once your oven is at temperature put the items inside. You need to let the items get to the correct 250°C temp[^2], and then _once_ they are at temp you should bake for at least 30 minutes[^3]. It is difficult to determine when the items are at 250°, if you have a laser thermometer you could use that. Otherwise, we recommend you play it very safe and give it an hour to get up to temp. This means you would have the items in the oven for 90 minutes after pre-heating.
 
 Once the time is up transfer the tray with the still wrapped glassware from the oven directly into your clean room. Keep wrapped.
 
@@ -67,5 +72,5 @@ If you are going to do fingertip testing<sup>+</sup>, now is the time to take th
 [this page]: /topics/instant_pot
 [How to preform fingertip testing]: /topics/fingertip_testing
 
-[&larr; 3. Prepare Work Area]: /guides/3_work_area
-[5. Mix Solution &rarr;]: /guides/5_mix_solution
+[&larr; 3. Prepare Work Area]: /guide/3-work-area
+[5. Mix Solution &rarr;]: /guide/5-mix

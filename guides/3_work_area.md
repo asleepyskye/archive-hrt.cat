@@ -3,9 +3,14 @@ title: 3 - Creating a Work Area
 layout: home
 nav_order: 3
 parent: Guide
+permalink: /guide/3-work-area
+redirect_from:
+    - /guides/3_work_area
 ---
 
 # Creating a Work Area
+
+_Reviewed April 15, 2024_
 
 Creating a clean area where you can minimize the flow of dust particles and bacteria is essential to creating a clean product. 
 
@@ -27,5 +32,5 @@ Creating a clean area where you can minimize the flow of dust particles and bact
 [^1]: Compounding Sterile Preparations, what page?
 
 
-[&larr; 2. What You'll Need]: /guides/2_what_you_need
-[4. Wash and Sterilize Tools and Vials &rarr;]: /guides/4_wash_sterilize
+[&larr; 2. What You'll Need]: /guide/2-supplies
+[4. Wash and Sterilize Tools and Vials &rarr;]: /guide/4-sterilize

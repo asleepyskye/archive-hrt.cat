@@ -2,6 +2,9 @@
 title: Additional Resources
 layout: home
 nav_order: 9999
+permalink: /resources
+redirect_from:
+    - /pages/resources
 ---
 
 ## Learning
@@ -21,7 +24,7 @@ _These resources are not endorsed, merely linked_
 
 
 ## Guides
-_We do not endorse these guides. They are linked here for your edification. For critical analysis of other injectable guides see [Were My Vials Properly Sterilized?](/other/properly_sterilized)_
+_We do not endorse these guides. They are linked here for your edification. For critical analysis of other injectable guides see [Were My Vials Properly Sterilized?](/properly-sterilized)_
 * [Vials/Transdermal/Pills: HRT Homebrew](https://files.catbox.moe/ax9efj.pdf) - [[backup](https://web.archive.org/web/20220809114615/https://files.catbox.moe/ax9efj.pdf)] - We haven't fully vetted these instructions, but considering this is the highest quality instructions for homebrewing HRT that we've seen, there may be merit to other information in here.
 * [Homebrewing testosterone (r/steroids wiki)](https://www.reddit.com/r/steroids/wiki/homebrew/list/) - r/steroids has almost 200k members on reddit. They take their info seriously. We have not fully reviewed this info, but this will be a good source for info specific to brewing testosterone. There is an extremely significant overlap between brewing E and T, and this is likely a good resource.
 * [How to make estradiol stickies](https://stickies.neocities.org/stickies) - if you have limited resources and need to make your estradiol tablets last, this may be worth looking into. - [backup](https://web.archive.org/web/20230321182426/https://stickies.neocities.org/stickies)
@@ -43,7 +46,7 @@ _We do not endorse these guides. They are linked here for your edification. For 
 
 ## Suppliers
 
-See [How to Order HRT](/other/order_hrt)
+See [How to Order HRT](/where-to-order)
 
 ## Unrelated
 * [Four Thieves Vinegar Collective](https://fourthievesvinegar.org/) - Information about building medical devices and using hacks to take medical care into our own hands. MicroLab, ER Suite, Abortion Care, Tooth Seal.

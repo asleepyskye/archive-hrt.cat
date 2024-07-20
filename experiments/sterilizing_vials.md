@@ -35,4 +35,4 @@ If, on the other hand, the data shows that the vials are not sterile, we can use
 `Group E` - HRT Cat method
 
 
-[Critical analysis of most homebrew methods]: /other/properly_sterilized
+[Critical analysis of most homebrew methods]: /properly-sterilized

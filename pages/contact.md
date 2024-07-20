@@ -2,17 +2,25 @@
 title: Contact
 layout: home
 nav_order: 100
+permalink: /contact
+redirect_from:
+    - /pages/contact
 ---
 
 # Contact
 
 ## hrtcat [at] proton [dot] me
 
-We encourage feedback about this guide. If you would like to contact us in order to correct some information or to offer suggestions please email us at hrtcat [at] proton [dot] me. We do not check this email daily.
+_Emails are only read once a month, at most_.
+
+We encourage feedback about this guide. If you would like to contact us in order to correct some information or to offer suggestions please email us at hrtcat [at] proton [dot] me. We do not check this email more than once a week.
 
 We do accept requests for clarification when it feels the info we've provided is lacking. We do not give individualized advice outside the scope of this guide.
 
-If you're willing to make needed changes to this site yourself please see the page on [contributing](/pages/contribute).
+If you're willing to make needed changes to this site yourself please see the page on [contributing](/contribute).
+
+
+(proton mail interacts weird with embedded PGP so please use only if necessary)
 
 
 ```

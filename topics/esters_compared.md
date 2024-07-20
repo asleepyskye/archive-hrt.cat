@@ -8,6 +8,7 @@ parent: Topics
 
 #TODO, find data, cite sources. 
 
+{: .info }
 This article is not finished. 
 
 ### [Estradiol Esters Simulator]
