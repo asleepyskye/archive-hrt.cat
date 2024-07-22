@@ -12,7 +12,7 @@ jobs:
       - run: sudo apt-get update
       - run: sudo apt-get install ruby-full -y
       - run: ruby -v
-      - run: gem install bundler -y
+      - run: gem install bundler
 
       # download repo
       - run: git config --global user.email "hrtcat@proton.me"
