@@ -25,8 +25,9 @@ jobs:
       - run: cd pages && bundle install
       - run: cd pages && bundle exec jekyll build
 
-      # move .git folder, commit
+      # re-init git in the build folder. create domain file. force push. 
       - run: rm -rf pages/.git
+      - run: echo 'hrt.cat' > pages/_site/.domains
       - run: cd pages/_site && git init
       - run: cd pages/_site && git add -A
       - run: cd pages/_site && git commit -m "build"
