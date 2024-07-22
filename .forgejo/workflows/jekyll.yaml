@@ -18,7 +18,7 @@ jobs:
       - run: git config --global user.email "hrtcat@proton.me"
       - run: git config --global user.name "hrtcat"
       - run: git clone "https://oauth2:${GITHUB_TOKEN}@git.gay/hrtcat/pages.git"
-      - run: git fetch "https://oauth2:${GITHUB_TOKEN}@git.gay/hrtcat/pages.git" dev
+      - run: cd pages && git fetch "https://oauth2:${GITHUB_TOKEN}@git.gay/hrtcat/pages.git" dev
       - run: cd pages && git checkout dev
 
       # install jekyll and build site
