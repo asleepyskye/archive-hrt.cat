@@ -1,0 +1,35 @@
+on:
+  push:
+    branches:
+      # branch where development work is done
+      - dev
+jobs:
+  build:
+    runs-on: docker
+    steps:
+
+      # install ruby
+      - run: sudo apt-get update
+      - run: sudo apt-get install ruby-full -y
+      - run: ruby -v
+      - run: gem install bundler -y
+
+      # download repo
+      - run: git config --global user.email "hrtcat@proton.me"
+      - run: git config --global user.name "hrtcat"
+      - run: git clone "https://oauth2:${GITHUB_TOKEN}@git.gay/hrtcat/pages.git"
+      - run: git fetch "https://oauth2:${GITHUB_TOKEN}@git.gay/hrtcat/pages.git" dev
+      - run: cd pages && git checkout dev
+
+      # install jekyll and build site
+      - run: cd pages && bundle install
+      - run: cd pages && bundle exec jekyll build
+
+      # move .git folder, commit
+      - run: mv pages/.git pages/site/.git
+      - run: cd pages/site && git checkout main
+      - run: cd pages/site && git add -A
+      - run: cd pages/site && git commit -m "commit build"
+
+      # push built files to main
+      - run: cd pages/site && git push "https://oauth2:${GITHUB_TOKEN}@git.gay/hrtcat/pages.git" main
