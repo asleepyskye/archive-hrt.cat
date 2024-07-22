@@ -27,7 +27,7 @@ jobs:
 
       # move .git folder, commit
       - run: mv pages/.git pages/_site/.git
-      - run: cd pages/_site && git stash
+      - run: cd pages/_site && git stash -u
       - run: cd pages/_site && git checkout main
       - run: cd pages/_site && git stash pop
       - run: cd pages/_site && git add -A
