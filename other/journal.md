@@ -21,7 +21,7 @@ HRT Cat was previously hosted on Github Pages. We liked this cause it was free a
 
 ### Where we are now
 
-We are now hosting on a private VPS in a docker container. We are hopeful that our new provider doesn't care about what we get up to. Also hopeful that we don't get (D)DOS'd or whatever now that we don't have cloudflare in front of the site. This new setup is also kinda fucking expensive. Again, we can't host on GoDaddy or similar, since we'll just get taken down again. Huge shoutout to Felicitas for the donation that will make this hosting possible for the first little while. Please, please [donate](/donate) if you're able to. We have thrown so much money and time at this project and we could really use the help keeping it online. Even just a few bucks (in XMR) means a lot to us. 
+We are now hosting on a with a smaller, leftist, queer oriented git host, https://git.gay. 
 
 ### Where we're going
 
