@@ -10,24 +10,32 @@ redirect_from:
 
 # Known HRT Producers
 
-_Updated Nov 22, 2023_
+_Updated July 23, 2024_
 
-* [Manufactured by Tyger] - UK, estradiol AND testosterone
-* [Otokonoko] - Brazil, ships worldwide, estradiol only
-* Lena - link unknown, Ukraine, estradiol only
-* [OE Labs] - EU, estradiol only, currently suspended
-* [Astrovials] - EU, estradiol only, (there's speculation that this is oe labs rebranded to avoid certain issues)
-* [Vanna Pharma] - UK only, estradiol only
-* ~~[Noire Labs]~~ - shut down
+Listing on this page does not equal endorsement. This is just a list of known brewers. For an analysis of the methods of various homebrewers check out the [were your vials properly sterilized](/properly-sterilized) page.
+
 * [Felicitas] - EU, estradiol only
 * [TeaHRT] - USA, international, estradiol only
+* [Vanna Pharma] - UK only, estradiol only
+* [Girlpotion] - EU, no UK, estradiol only
+* [Astrovials] - EU, international shipping. There's speculation that this is oe labs rebranded to avoid having to refund certain customers. Estradiol only. 
+* [Otokonoko] - Brazil, ships worldwide, estradiol only
+* Lena - link unknown, Ukraine, estradiol only, poor sterilization technique
+* [Fiole Labs] - UK only. Estradiol only.
+* [Silvermaple Labs] - Canada based. International shipping. Estradiol only.
+* [Voix Céleste] - EU based, international shipping, estradiol only. 
+* ~~[OE Labs]~~ - shut down. 
+* ~~[Noire Labs]~~ - shut down
+* ~~Manufactured by Tyger~~ - shut down
 
-[Manufactured by Tyger]: https://manufacturedbytyger.com/
+[Voix Céleste]: https://voixceleste.cc/
+[Silvermaple Labs]: https://silvermaplelabs.com
+[Fiole Labs]: https://fiolelabs.org/
 [OE Labs]: https://oelabs.co/
 [Felicitas]: https://www.flcts.eu/
 [Noire Labs]: https://noirelabs.net/
-[Vanna Pharma]: https://vannapharma.com/
-[Astrovials]: https://astrovials.co/shop
-[Otokonoko]: https://otkph.com/welcome/
+[Vanna Pharma]: https://vannapharma.cc/
+[Astrovials]: https://astrovials.com
+[Otokonoko]: https://otkph.am/
 [TeaHRT]: https://teahrt.com
-s
+[Girlpotion]: https://girlpotion.cc/

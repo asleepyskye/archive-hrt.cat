@@ -10,14 +10,14 @@ redirect_from:
 
 # Getting Started Brewing Injectable HRT
 
-_Updated April 14, 2024_
+_Updated July 23, 2024_
 
 ## For Medium Scale Production
 
 {: .info }
 This guide is intended for medium scale production. It is not ideal for batches in excess of 50 3mL vials, however you may be able to adapt it. 
 
-Talking about the safety of homebrewed HRT is difficult. Homebrewed vials have largely proven themselves to be safe through mountains of anecdotal evidence, yet when the [average homebrew guide is analyzed critically] it becomes clear that almost no one completes a single sterilization step effectively. We do not know how many people receive infections from these vials and [whether or not immunocompromised people are disproportionately affected](/assets/images/media/protect_disabled.png).  
+Talking about the safety of homebrewed HRT is difficult. Homebrewed vials have largely proven themselves to be safe through mountains of anecdotal evidence, yet when the [average homebrew guide is analyzed critically] it becomes clear that almost no one completes a single sterilization step effectively. We do not know how many people receive infections from these vials and whether or not immunocompromised people are disproportionately affected.
 
 This guide aims to empower those who brew for themselves, for mutual aid, and those who brew for profit to create vials that we can more confidently say have been sterilized. And while our general recommendation would be to stick with brewing topicals, this is a harm reduction based guide that recognizes that vials are preferable to many people.
 
@@ -43,15 +43,17 @@ There are a plethora of articles in the sidebar. They are sometimes, but not alw
 
 We think homebrewing doesn't have to be difficult or complex, but we do think that you need to be well-read on the topic to do it effectively.
 
-## Read Tyger's guide on homebrewing
+## Read Anon's guide on homebrewing
 
-Tyger is a mutual aid homebrewer in the UK. While we have minor critiques on some of their recommendations, largely we think that their homebrew guide is exceptionally high quality.
+While we have minor critiques of this guide, largely we think that their homebrew guide is exceptionally high quality.
 
-If you are making vials at anything greater than small scale you would be best served to read their guide **in conjunction** with HRT Cat. We ask that you take a particularly strong look at their suggestions for aseptic technique, which go into far greater detail than we do on this site.
+If you are making vials at anything greater than small scale you would be best served to read their guide **in conjunction** with HRT Cat. We ask that you take a particularly strong look at their suggestions for aseptic technique, which go into far greater detail than we do on this site. When it comes to brew method, temperatures, filtration, etc. we recommend you defer to advice on HRT Cat as we believe it is better researched. 
 
-[Guide by Tyger (recovered through the way back machine)](https://web.archive.org/web/20230812121350/https://manufacturedbytyger.com/Tyger_Medium_Guide.pdf)
+[Anon's Medium Scale Guide (recovered through the way back machine)](/assets/PDFs/Medium_Guide.pdf)
 
-This recommendation will remain in place until we are able to write a proper article on aseptic technique.
+This recommendation will remain in place until we are able to write a proper article on aseptic technique. 
+
+The creator of this guide took all of their info offline. Out of respect we have redacted any info that ties this guide to that creator. If they would like credit restored they are welcome to email us and let us know. 
 
 ## Create a procedure summary
 

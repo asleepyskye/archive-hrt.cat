@@ -11,7 +11,7 @@ redirect_from:
 
 ## hrtcat [at] proton [dot] me
 
-_Emails are only read once a month, at most_.
+_Emails are read sporadically, do not expect a timely response_.
 
 We encourage feedback about this guide. If you would like to contact us in order to correct some information or to offer suggestions please email us at hrtcat [at] proton [dot] me. We do not check this email more than once a week.
 

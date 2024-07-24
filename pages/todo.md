@@ -12,21 +12,16 @@ redirect_from:
 
 ## Do for Version 1.1
 
-* Where to host git snapshot of site? Want people to be able to easily download it. Maybe just github again? 
 * Review all info about agar plates, flow hood, still air, fingertip testing, final sterility testing
 * Get sketch of bubble point test
 * Review full guide
 * Update permalinks for topics
 * Call mom. 
-* Update contributing info
-* search for lingering github links
 * Embed Tyger's PDFs directly into HRT Cat and make sure the metadata is clean
 * review active homebrewers against diyhrt cafe and market, make into table
 * update vials sizes and concentrations page
 * clean up use of hot water in step 5, mixing. Add to materials list. 
 * Step 6 -> filter needs to be primed and then do a before bubble point test
-* make the contribute page point to the right spot
-* change warning on calculator... "github", but also it's probably accurate.
 * organize "where  to order"
 
 

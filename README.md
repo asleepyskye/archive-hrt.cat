@@ -12,7 +12,7 @@ Reference the Jekyll template on how to host on GitHub pages or host elsewhere: 
 
 ## Contributing
 
-We are a small team and have done our best with this guide, but we can only do so much. If you see room for improvement, please feel free to create an issue or better yet make the needed change and open a pull request. We request that all changes be facilitated through [GitHub](https://github.com/hrtcat/hrtcat).
+We are a small team and have done our best with this guide, but we can only do so much. If you see room for improvement, please feel free to create an issue or better yet make the needed change and open a pull request. We request that all changes be facilitated through [Git.Gay](https://git.gay/hrtcat/pages). The `dev` branch hosts the raw markdown/jekyll files while the `main` branch is just the build files. There is an automation that builds the `dev` branch and throws it on `main` when the `dev` branch is pushed/merged.
 
 ## License
 

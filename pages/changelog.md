@@ -4,16 +4,27 @@ layout: home
 permalink: /changelog
 ---
 
+## Version 1.2
+_July 23, 2024_
+
+* Site is back online after being taken down by github.
+* Added a post to the [journal](/journal#hrt-cat-is-back) about where the site went and where it's going.
+* Journal post about refining our process in collaboration with a PhD chemist is [here](/journal#speaking-with-a-phd-chemist-about-our-method)
+* Spell check and correction on various pages
+* Guide step 1:
+	* remove broken link
+	* add info and embed pdf for anon's brew guide
+* Update known diy producers, fix dead links
+
+
 ## Version 1.1
 _April 16, 2024_
 
-* Made the site live again after it was removed from Github. 
-* Added a sort of blog post to the [journal](/journal#hrt-cat-is-back) about where the site went and where it's going.
 * Changed how frequently it says we read emails on the contact page. Was once a week. Now once a month. That's still ambitious lol.  
 * Added some stuff to the [to do list](/todo).
 * Added a link to the diy hrt market transfemme guide to the "start hrt" page.
 * Added a meme
-* Changed link to Tyger's guide on the first step of our guide to now point to a PDF recovered through the way back machine
+* Changed link to Anon's guide on the first step of our guide to now point to a PDF recovered through the way back machine
 * Updated recommendations for vial size and concentrations 
 
 

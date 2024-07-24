@@ -15,7 +15,7 @@ _Reviewed April 16, 2024_
 Most of the raw data that was turned into this calculator can be found [here](/topics/recipes).
 
 {: .warning }
-This calculator is in beta. It uses the methodology we use to calculate our brew ratios. There may be better ways to do these calculations. Double-check the work this calculator does. Proceed with caution. Please report any information about how to improve the calculator to our github or to our email. 
+This calculator is in beta. It uses the methodology we use to calculate our brew ratios. There may be better ways to do these calculations. Double-check the work this calculator does. Proceed with caution. Please report any information about how to improve the calculator to our git.gay page or to our email. 
 
 <select name="recipe" id="recipe-select">
     <option value="none">--Choose a recipe--</option>

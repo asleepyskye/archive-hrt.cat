@@ -13,19 +13,19 @@ redirect_from:
 Welcome to our journal where we write about ~~wild fantasies we have about catgirls~~ what we're actively learning on any given day. Thoughts may be incomplete and scattered, these are merely our own notes. Look at [Topics](/topics) and [Guide](/guide) for more structured info.
 
 ## HRT Cat is Back!
-_April 16, 2024_
+_July 23, 2024_
 
 ### Where we went
 
-HRT Cat was previously hosted on Github Pages. We liked this cause it was free and we could just `git push` updates out. We did, however, suspect that eventually that decision would come back to bite us in the ass seeing as Github terms of service probably don't look _super_ kindly on this type of website. It probably doesn't help that we access all of our services through Tor and are more likely to have our accounts flagged as spam. So yeah, Github took us down and we didn't even know until posts on reddit started popping up. Once we were able to wrap up a few other projects we've been able to put HRT Cat back in the center of the project orbit. 
+HRT Cat was previously hosted on Github Pages. We liked this cause it was free and we could just `git push` updates out. We did, however, suspect that eventually that decision would come back to bite us in the ass seeing as Github terms of service probably don't look _super_ kindly on this type of website. It probably doesn't help that we access all of our services through Tor and are more likely to have our accounts flagged as spam. So Github took us down and we didn't even know until posts on reddit started popping up. Once we were able to wrap up a few other projects we've been able to put HRT Cat back in the center of the project orbit. 
 
 ### Where we are now
 
-We are now hosting on a with a smaller, leftist, queer oriented git host, https://git.gay. 
+We are now hosting on a with a smaller, leftist, queer oriented git host, [git.gay](https://git.gay), and are hopeful the site will stay online.
 
 ### Where we're going
 
-Shit is getting super real out there, you know? More and more people are needing access to DIY hormones and it seems like every day one of us is sharing some DIY atrocity posted on the subreddit with each other. There's way too much bad info in our community. Too many people shooting junk vials (please stop burning oil then injecting it! omg). 
+Shit is getting super real out there, you know? More and more people are needing access to DIY hormones and it seems like every day one of us is sharing some DIY atrocity posted on the subreddit with each other. There's way too much bad info in our community. Too many people shooting junk vials. 
 
 We want to focus on a few different things moving forward:
 
@@ -37,11 +37,20 @@ We want to focus on a few different things moving forward:
 
 We want to support as many people as we can. But most importantly we want to support people who are preparing to support their own local communities. If you are capable of following the instructions on this website, there are local ~~moms in your area~~ trans folks who need you. Please consider taking steps to locate and help them. 
 
-Later Bitches,  
+Later,  
 HRT Cat....
 
-P.S. [contact](/contact) us if you have suggetions or ideas or want to say nice things. Mean things get deleted :) 
+P.S. [contact](/contact) us if you have suggestions or ideas or want to say nice things. Mean things get deleted :) 
 
+## Speaking with a PhD Chemist About Our Method
+
+We were very fortunate to work with a PhD chemist and to collaborate with them about our brew method. While we have highly specific knowledge about brewing this one specific recipe, they have information about all sorts things. When we put our heads together we were able to learn a lot! Let's dig in:
+
+* They confirmed that **contact with moisture is necessary for steam sterilization**. If a closed vial is put into an autoclave, it is not an adequate form of sterilization, as HRT vials do not contain water. If a vial's solution was water based it could be sterilized this way as the water in the vial would turn to steam and sterilize the contents. "Ansel's pharmaceutical dosage forms and drug delivery systems (2014)" supposedly explains this on page 522, we will follow up with a PDF of this. 
+* For oil based solutions, it's advised to use another method such as filtering or dry heat. Dry heat requires longer temps and higher heat than steam. Dry heat works by dehydrating microbes, whereas wet heat denatures proteins. 
+* In the book "Ansel's pharmaceutical dosage forms and drug delivery systems (2014)," there is a description on page 573 of how to prepare progesterone for injection, which appears to use a very similar recipe to E and T. They make the solution in bulk, dry heat sterilize for 1 hour at 150C (302F), verify sterilization, apply more heat if needed, etc, then package into vials. We can assume that BA and BB are stable at that temp. They use sesame oil in the solution, as opposed to us using MCT. Wikipedia lists sesame oil smoke point at 177C when unrefined or 232C when semirefined. Various cooking websites list MCT oil's low end of smoke point at 320F. With further research we could confidently add dry heat sterilization to our method. We would add it *after* filtration and *after* sealing in vials.
+
+Largely it seems that our method is correct and safe. We will likely add the dry heat step at the end once we finish the research needed to support a method. While the dry heat isn't technically necessary, if we feel we can add it safely then it's an extra layer of security that will make everything that much more safe.
 
 ## Heating Finished Vials?
 
@@ -51,13 +60,13 @@ While syringe filters ARE terminal sterilization, it's possible for contaminates
 - How much heat can the hormones handle?
 
 
-If we swtich to using all metal caps we won't have to worry about melting the plastic on the caps during a final dry heat round. 
+If we switch to using all metal caps we won't have to worry about melting the plastic on the caps during a final dry heat round. 
 
 [This thread discourages heat after capping](https://www.anabolicsteroidforums.com/threads/sterilizing-after-filling-and-capping.67913/)
 
-> You dont sterilize them after filling you sterilize them before. That makes no sense never bake your gear you ruin the hormone ... For one you will degrade the stopper. Thats one. Two you will over heat the hormone and three its just not needed ... you dont bake it. Its not a caserole. 
+> You don't sterilize them after filling you sterilize them before. That makes no sense never bake your gear you ruin the hormone ... For one you will degrade the stopper. That's one. Two you will over heat the hormone and three its just not needed ... you don't bake it. Its not a casserole. 
 
-> I don't get the whole baking after capping thing. Makes no sense and just opens the door to a ton of problems. Autoclaving in a container and working in the cleanest stillest air you can manage will do you more good. Realisitically, once the oil is filtered your procedure and environment prep should keep you sterile, it's really doubtful that if a vial gets contaminated at that point that 30 minutes in an oven is really going to do any good anyway. The BA should be working to keep any replication of bacteria at a standstill anyway. I mean as soon as you open the vial and pressurize it with air it is "contaminated" anyway.
+> I don't get the whole baking after capping thing. Makes no sense and just opens the door to a ton of problems. Autoclaving in a container and working in the cleanest stillest air you can manage will do you more good. Realistically, once the oil is filtered your procedure and environment prep should keep you sterile, it's really doubtful that if a vial gets contaminated at that point that 30 minutes in an oven is really going to do any good anyway. The BA should be working to keep any replication of bacteria at a standstill anyway. I mean as soon as you open the vial and pressurize it with air it is "contaminated" anyway.
 
 > The reality is that the hormone, BA, BB, and stoppers all have breakdown temps and it seems like the knowledgeable UGL folks regard that as a legit showstopper. I haven't seen any actual specs though.
 
@@ -178,7 +187,7 @@ we're going to rest at this point here for now:
 2. Silicone rubber stoppers are *significantly less likely* to lose integrity if dry-heat depyrogenated, due to silicone being strong af. 
 3. Using pre-sterilized vials sounds ideal, but there is a major downside of piercing a vial and then putting it in storage. we're unable to find ANY information relating to doing things this way. 
 
-This makes silicone stoppers sound like the best option. Because this is a less common material we feel the need to check compatability with MCT, BA, and BB.
+This makes silicone stoppers sound like the best option. Because this is a less common material we feel the need to check compatibility with MCT, BA, and BB.
 
 !! UPDATE: silicone stoppers are incompatible with BA, DO NOT USE
 
@@ -227,7 +236,7 @@ CSPs for human use (Chapter 28)"
 ## Reading Chapter 4
 _May 12, 2023_
 
-Because the bulk estradiol is going to arrive nonsterile the compounded sterile preparation (CSP) is considered "high risk".
+Because the bulk estradiol is going to arrive non-sterile the compounded sterile preparation (CSP) is considered "high risk".
 
 Use USP 797 requirements for cleansing, garbing, cleaning, disinfecting, etc.
 

@@ -44,7 +44,7 @@ Lena has a separate page that recommends using an autoclave. Those instructions 
 
 In summary: don't use this method. Don't write a new guide based off this method. If these vials have any sort of sterility it is solely because of the benzyl alcohol included in the recipe.
 
-## Noir Labs
+## Noir Labs (now shut down)
 
 [https://noirelabs.net/diy-estradiol-guide](https://noirelabs.net/diy-estradiol-guide) - This person probably got the bulk of her info from Lena's guide but has supplemented it with a few additional safety practices.
 
@@ -114,7 +114,43 @@ Once again, if we were in Europe these would be our preferred DIY vials.
 
 Vanna Pharma does not list their brew technique on their website, but we sure wish they did! They use all the right buzzwords and they speak about their brew process with the attitude we want to see out of homebrewers: intelligence, humility, and a strong admission that this isn't pharmaceutical quality. 
 
-If anyone finds Vanna's brew guide, send it along. 
+If anyone finds Vanna's brew guide, send it along.
+
+## Felicitas
+
+_July 23, 2024_
+
+Unknown brew method. A posted image of a spectrometer report shows no foreign substances found in the tested vial.  
+
+## TeaHRT
+
+_July 23, 2024_
+
+Unknown brew method. They claim to have a laboratory trained chemist on the team. They say they "use practices consistent with other DIYHRT manufacturers" which we don't love since there is little evidence that most DIY manufacturers use adequate methods. They additionally say they use HPLC analysis, vacuum filtration, depyrogenation, autoclaving, and terminal sterilization.
+
+These are all good key words, but don't mean much without methodology posted. Vacuum filtration is difficult to do while maintaining a sterile preparation, but if they're using a laminar flow hood and a final, carefully tuned round of dry heat terminal sterilization it's probably great.
+
+## Girlpotion
+
+_July 23, 2024_
+
+No data listed. They offer 10mL 40mg/mL vials which we believe is irresponsible. 
+
+## Astrovials
+
+TODO
+
+## Fiole Labs
+
+TODO 
+
+## Silvermaple Labs
+
+TODO
+
+## Voix Céleste
+
+TODO
 
 ## Other Producers
 
