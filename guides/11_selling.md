@@ -1,9 +1,11 @@
 ---
-title: 10 - Running a Business
+title: 11 - Running a Business
 layout: home
-nav_order: 10
+nav_order: 11
 parent: Guide
-permalink: /guide/10-selling
+permalink: /guide/11-selling
+redirect_from:
+    - /guides/10-selling
 ---
 
 # Running your HRT Business

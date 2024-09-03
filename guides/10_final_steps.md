@@ -1,11 +1,12 @@
 ---
-title: 9 - Final Steps
+title: 10 - Final Steps
 layout: home
-nav_order: 9
+nav_order: 10
 parent: Guide
-permalink: /guide/9-final-steps
+permalink: /guide/10-final-steps
 redirect_from:
     - /guides/8_final_steps
+    - /guides/9-final-steps
 ---
 
 # Final Steps
@@ -16,7 +17,7 @@ There is a vast misconception that putting closed and finished vials into your a
 
 Therefore, you do not need to take any final sterilization steps if you followed the previous steps precisely. 
 
-Of course, some bacteria is killed at 121°C. An autoclave cycle won't do nothing, but it is not sufficient to create conditions of sterility in your vial. You may put your vials into the autoclave for 30-60 minutes, as a final just-in-case, but in theory it's not needed.
+Of course, some bacteria is killed at 121°C. An autoclave cycle won't do nothing, but it is not sufficient to create conditions of sterility in your vial. You may put your vials into the autoclave for 30-60 minutes, as a final just-in-case, but in theory it's not needed and isn't doing very much.
 
 ## Making a Record
 
@@ -66,10 +67,10 @@ If you have plans to sell your vials, or if you're already doing so, we recommen
 
 ## Navigation
 
-[&larr; 8. Dispense Solution]{: .btn .btn-purple }
-[10. Running a Business &rarr;]{: .btn .btn-purple }
+[&larr; 9. Heat Sterilization]{: .btn .btn-purple }
+[11. Running a Business &rarr;]{: .btn .btn-purple }
 
 [this page]: /lena
 [fingertip testing here]: /topics/fingertip_testing
-[&larr; 8. Dispense Solution]: /guide/8-dispense
-[10. Running a Business &rarr;]: /guide/10-selling
+[&larr; 9. Heat Sterilization]: /guide/9-heat-sterilization
+[11. Running a Business &rarr;]: /guide/11-selling

@@ -4,8 +4,9 @@ layout: home
 permalink: /changelog
 ---
 
+
 ## Version 1.2
-_July 23, 2024_
+_Sept 2, 2024_
 
 * Site is back online after being taken down by github.
 * Added a post to the [journal](/journal#hrt-cat-is-back) about where the site went and where it's going.
@@ -15,6 +16,7 @@ _July 23, 2024_
 	* remove broken link
 	* add info and embed pdf for anon's brew guide
 * Update known diy producers, fix dead links
+* Add a step to the guide about heat sterilization, it's more of a placeholder for now.
 
 
 ## Version 1.1

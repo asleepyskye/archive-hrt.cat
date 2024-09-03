@@ -60,7 +60,7 @@ Set aside the 2nd pass filter(s) for now, you will preform the sterility testing
 ## Navigation
 
 [&larr; 7. Bubble Point Test]{: .btn .btn-purple }
-[9. Final Steps &rarr;]{: .btn .btn-purple }
+[9. Heat Sterilization &rarr;]{: .btn .btn-purple }
 
 ---
 
@@ -73,4 +73,4 @@ Set aside the 2nd pass filter(s) for now, you will preform the sterility testing
 [vacuum pump and bottle top filters]: /topics/bulk_filtration
 [bubble point tests]: /guide/7-bubble-point
 [&larr; 7. Bubble Point Test]: /guide/7-bubble-point
-[9. Final Steps &rarr;]: /guide/9-final-steps
+[9. Heat Sterilization &rarr;]: /guide/9-heat-sterilization
