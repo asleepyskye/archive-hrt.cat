@@ -19,35 +19,34 @@ At this point your glass vials and the vial stoppers should still be wrapped/cov
 
 Wipe off the stopper on the 100mL vial with a sterile alcohol prep pad. Use a fresh and sterile large syringe and needle, withdraw an amount of fluid that will evenly divide into your vials, so that you don't need to fill up any one vial twice.
 
-Example: Fill your 20mL syringe to 18mL, which divides evenly into 6 3mL vials. 
+Example: Fill your 20mL syringe to 18mL, which divides evenly into 6 3mL vials.
 
-You will need to aspirate the large vial in order to draw up such a large amount of fluid. Make sure that the air that you're aspirating with is coming from inside your still air box or laminar flow hood... it's that much more likely to be contamination free. 
+You will need to aspirate the large vial in order to draw up such a large amount of fluid. Make sure that the air that you're aspirating with is coming from inside your still air box or laminar flow hood... it's that much more likely to be contamination free.
 
-You now have your syringe with 100% sterile medicine in it. Make sure that your vial stoppers and caps are ready to be grabbed. Remove the aluminum foil hat on a single vial, being careful to not hover your hands or sleeves above the opening. Insert the needle into the vial and dispense the medicine, in our case, exactly 3mL. 
+You now have your syringe with 100% sterile preparation in it. Make sure that your vial stoppers and caps are ready to be grabbed. Remove the aluminum foil hat on a single vial, being careful to not hover your hands or sleeves above the opening. Insert the needle into the vial and dispense the preparation, in our case, exactly 3mL.
 
-Quickly, but without passing a hand or sleeve over the exposed vial, and without stirring up air currents in your box, place a rubber stopper on the now full vial. 
+Quickly, but without passing a hand or sleeve over the exposed vial, and without stirring up air currents in your box, place a rubber stopper on the now full vial.
 
 <img src="/assets/images/fill_up.png" width="500px">
 
-Phew! If all done correctly, the tiny opening of the vial was only exposed to air for about 5 seconds before the stopper was put in place. We do not rely on heat sterilization, because heat sterilization isn't scientifically sound for this preparation. We rely on swiftness, and gentleness in this last step. 
+Phew! If all done correctly, the tiny opening of the vial was only exposed to air for about 5 seconds before the stopper was put in place. We do not rely on heat sterilization, because heat sterilization isn't scientifically sound for this preparation. We rely on swiftness, and gentleness in this last step.
 
-Once the stopper is on, you can cap it and crimp, or pass the vial to a helper to have them cap and crimp. 
+Once the stopper is on, you can cap it and crimp, or pass the vial to a helper to have them cap and crimp.
 
-Do this for each vial until you've used up all your mixture in the syringe. Then, use a new sterile alcohol prep pad to clean off the stopper of the 100mL vial, aspirate, and go ahead and draw up some more of the preparation to continue dispensing. 
+Do this for each vial until you've used up all your mixture in the syringe. Then, use a new sterile alcohol prep pad to clean off the stopper of the 100mL vial, aspirate, and go ahead and draw up some more of the preparation to continue dispensing.
 
-We like to change the needle out after 1-2 punctures of the 100mL vial, just as an over-abundance of caution. 
-
+We like to change the needle out after 1-2 punctures of the 100mL vial, just as an over-abundance of caution.
 
 ## Sterility Test<sup>+</sup>
 
 If you are going to do a final sterility test<sup>+</sup>, you need to determine what total volume of your final preparation[^2] you're going to run the test on.
 
-| Total Volume of Preparation | Volume to Test   |
-|-----------------------------|------------------|
-| < 1mL                       | 100%             |
-| 1-40mL                      | 50%              |
-| 40-100mL                    | 20mL             |
-| > 100mL                     | 10% (min. 20mL)  |
+| Total Volume of Preparation | Volume to Test  |
+| --------------------------- | --------------- |
+| < 1mL                       | 100%            |
+| 1-40mL                      | 50%             |
+| 40-100mL                    | 20mL            |
+| > 100mL                     | 10% (min. 20mL) |
 
 Any volume you're not using for sterility testing will be filtered directly into vials just like usual. The remaining liquid should be filtered into a sterile flask. Then, using a new sterile syringe, a new sterile filter, new sterile needles, you draw that fluid back up and **re-filter it**. This second pass filtration can be done with a 0.45μm filter to make it easier, but 0.22μm is okay too if that's all you have.
 

@@ -15,7 +15,7 @@ _Reviewed April 16, 2024_
 Most of the raw data that was turned into this calculator can be found [here](/topics/recipes).
 
 {: .warning }
-This calculator is in beta. It uses the methodology we use to calculate our brew ratios. There may be better ways to do these calculations. Double-check the work this calculator does. Proceed with caution. Please report any information about how to improve the calculator to our git.gay page or to our email. 
+This calculator is in beta. It uses the methodology we use to calculate our brew ratios. There may be better ways to do these calculations. Double-check the work this calculator does. Proceed with caution. Please report any information about how to improve the calculator to our git.gay page or to our email.
 
 <select name="recipe" id="recipe-select">
     <option value="none">--Choose a recipe--</option>
@@ -79,13 +79,14 @@ This calculator is in beta. It uses the methodology we use to calculate our brew
 
 ### Ingredient Ratios:
 
-When analyzing multiple recipes from various pharmaceutical manufacturers, a few things became clear. While the recipes are listed in mass, both BB and BA convert out into well-rounded volumetric measurements based on the density of those ingredients. For example, multiple recipes list exactly 224mg of BB per 1mL of medicine. This calculates out to be exactly 0.2mL of BB. Similar with BA. We theorize then that these ingredients are not added by weight but by volume. When you scale your recipe up, you will always see BB and BA in perfect volumetric ratios (20/40% and 2% respectively).  
+When analyzing multiple recipes from various pharmaceutical manufacturers, a few things became clear. While the recipes are listed in mass, both BB and BA convert out into well-rounded volumetric measurements based on the density of those ingredients. For example, multiple recipes list exactly 224mg of BB per 1mL of preparation. This calculates out to be exactly 0.2mL of BB. Similar with BA. We theorize then that these ingredients are not added by weight but by volume. When you scale your recipe up, you will always see BB and BA in perfect volumetric ratios (20/40% and 2% respectively).
 
-For the calculator, we use the density to calculate the displacement of your hormone ester of choice. Unless you're working with ten's of liters of medicine this probably doesn't matter that much, but for the sake of accuracy this is how it's calculated.
+For the calculator, we use the density to calculate the displacement of your hormone ester of choice. Unless you're working with ten's of liters of preparation this probably doesn't matter that much, but for the sake of accuracy this is how it's calculated.
 
-We then look at the sum of the volume of the hormone, BB, and BA, and then fill the remaining volume with the carrier oil. 
+We then look at the sum of the volume of the hormone, BB, and BA, and then fill the remaining volume with the carrier oil.
 
 ### Rounding:
+
 Values are rounded to the nearest 0.01, but calculations are done on the unrounded numbers.
 
 <script src="/assets/scripts/recipe_calculator.js"/>

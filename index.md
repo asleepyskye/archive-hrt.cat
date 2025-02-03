@@ -7,11 +7,18 @@ nav_order: 0
 <img class="home-logo" src="{{ site.logo }}"/>
 
 ## Version {{ site.version }}
+
 _Last Updated {{ site.updated }}_  
 [View the changelog](/changelog)
 
-{: .notice }
-**We're back!** HRT Cat was offline for a number of months due to Github being a bitch and taking down our site. Also we were doing other stuff and sadly were not able to prioritize this project. Free Palastine. For a full update on where the site went, where it is now, and what the future might hold, check out [this journal entry here](/journal#hrt-cat-is-back). View the [changelog](/changelog) to see what else is new.
+{: .warning }
+HRT Cat is shutting down. [Read more](/goodbye).
+
+{: .warning }
+Apparently testosterone is a controlled substance in the United States. The information contained on this website is not to be used to manufacture testosterone in any jurisdictions where that might be illegal. You have to promise us.
+
+{: .warning }
+Nothing on this site is medical advice. Nothing you produce with the information on this site is considered medicine. HRT Cat cannot be held responsible for anything you do with the information on this site. We're literally cats.
 
 Hiya! Welcome to HRT Cat. This is a website where you can review information on how to make injectable HRT for sale, for mutual aid, or just for yourself. It's also a launching point for so many other types of necessary information about DIY HRT. It seems like every day the world becomes a scarier place for trans people. This website is dedicated to taking hormone therapy into our own hands when bigoted governments and institutions stand in our way. This website is open source, please feel free to [become a contributor](/contribute) or to [make a donation](/donate).
 
@@ -41,7 +48,7 @@ Welcome the HRT Cat! This is a guide for homebrewing injectable estradiol and te
 
 There is a lot of misinformation in the DIY injectables online community. This guide was thoroughly researched using a variety of scientific resources that are all cited throughout the guide. we have rigorously researched many commonplace claims about how to brew, and have either validated or refuted those claims.
 
-We have done a deep dive into sterilization best practices when dealing with compounding what is called high-risk<sup>*</sup> preparations. Many of those practices cannot be completed in a home lab, but of the ones that are manageable we have written about them in the context of homebrewing. Our hope is that we can bring safe and necessary lab practices to people who are resorting to homebrewing, for whatever the reason.
+We have done a deep dive into sterilization best practices when dealing with compounding what is called high-risk<sup>\*</sup> preparations. Many of those practices cannot be completed in a home lab, but of the ones that are manageable we have written about them in the context of homebrewing. Our hope is that we can bring safe and necessary lab practices to people who are resorting to homebrewing, for whatever the reason.
 
 As far as we see it, given the state of the world, people in this community will be more and more forced into making their own hormones. And while there are options available for purchasing HRT online without a prescription, some people will opt to homebrew.
 
@@ -60,4 +67,4 @@ Otherwise, explore the links in the sidebar. We put things there.
 
 ## Notes
 
-<sup>*</sup>stating with non-sterile ingredients and creating a sterile product, like what were doing.
+<sup>\*</sup>stating with non-sterile ingredients and creating a sterile product, like what were doing.
